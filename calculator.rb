@@ -7,4 +7,5 @@ second_number = y
 
 sum = x+ y 
 difference = x - y 
+product = x * y
 quotient = x / y 
